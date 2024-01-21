@@ -28,7 +28,7 @@ The **No Fail** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that prev
 
 As of 16 January 2021, the No Fail mod may incur a certain penalty to the amount of [performance points](/wiki/Performance_points) that a player gains from a play depending on how many misses they get. Starting from a base value of 1.0x (100%), each miss will decrease the performance point gain multiplier by -0.02x (0.5%) up to a maximum of 0.9x (90%). <!-- pp change newspost: https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates -->
 
-This mod has the same effect across all [game modes](/wiki/Game_mode).
+As of 28 September 2022, the mod has the same effect across all [game modes](/wiki/Game_mode) except for osu!taiko, where the No Fail multiplier has been removed. <!-- taiko pp change newspost: https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
